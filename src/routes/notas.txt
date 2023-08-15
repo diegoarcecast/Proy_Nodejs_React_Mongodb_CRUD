@@ -1,0 +1,2 @@
+Esta carpeta sirve para crear las url's del backend
+definir endpoints o las rutas que el frontend puede pedir

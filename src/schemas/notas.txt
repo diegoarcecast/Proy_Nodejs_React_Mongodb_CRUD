@@ -1,0 +1,2 @@
+Carpeta con la finalidad de hacer validaciones de backend 
+antes de que lleguen al backend

@@ -1,0 +1,2 @@
+Nos va a servir para decir que rutas estan protegidas por 
+usuarios autenticados, funciones de validacion
